@@ -1,2 +1,5 @@
 # stepper
-Simple react stepper 
+
+Simple react stepper
+
+[DEMO](https://epodivilov.github.io/stepper/)

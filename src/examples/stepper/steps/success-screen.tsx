@@ -24,7 +24,7 @@ export const SuccessScreen = () => {
 
     return (
       <>
-        <Text UNSAFE_style={{ fontWeight: "bold" }}>{data?.result.message}</Text>
+        <Text UNSAFE_style={{ fontWeight: "bold" }}>{data?.result?.message}</Text>
         <Text>Your information has been submitted.</Text>
       </>
     );
